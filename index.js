@@ -26,5 +26,5 @@ return (n)
 function makeInt(n){  
 n=parseInt(n)
 return (n)
-  
+}
 } 
